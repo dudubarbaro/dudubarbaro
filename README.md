@@ -1,5 +1,3 @@
-### document.write("Forget!") 👋
-
 <div align="center">
   <a href="https://github.com/dudubarbaro">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudubarbaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -13,7 +11,7 @@
   <img align="center" alt="bru-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Github" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="VueJs" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="SQL" height="30" width="40" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?w=600&ssl=1" />
+  <img align="center" alt="SQL" height="30" width="50" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?w=600&ssl=1" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://www.homehost.com.br/blog/wp-content/uploads/2020/09/mysql.png" />
   
 </div>
