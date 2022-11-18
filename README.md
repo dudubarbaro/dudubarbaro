@@ -7,10 +7,10 @@
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Rafa-Js" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
           
-  <img align="center" alt="bru-HTML" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="bru-CSS" height="30" width="30" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="bru-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="bru-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="VueJs" height="30" width="40" src="https://icongr.am/devicon/vuejs-original.svg?size=128&color=currentColor" />
-  <img align="center" alt="SQL" height="30" width="50" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?w=600&ssl=1" />
+  <img align="center" alt="SQL" height="30" width="40" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?w=600&ssl=1" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://www.homehost.com.br/blog/wp-content/uploads/2020/09/mysql.png" />
   
 </div>
