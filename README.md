@@ -1,10 +1,14 @@
-## Olá! Este é o meu perfil...
-<div align="center">
-  <a href="https://github.com/dudubarbaro">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudubarbaro&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubarbaro&layout=compact&langs_count=7&theme=dracula"/>
+## ## 👋 Olá! Bem vindo ao meu perfil do Github.
+
+<hr/>
+
+![Snake animation](https://github.com/dudubarbaro/dudubarbaro/blob/output/github-contribution-grid-snake.svg)
+
+<div>
+<a href="https://github.com/dudubarbaro">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubarbaro&layout=compact&langs_count=7&theme=apprentice"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudubarbaro&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
 </div>
-  
   ## Linguagens que eu estou aprendendo:
 
 <div style="display: inline_block" align="center"><br>
