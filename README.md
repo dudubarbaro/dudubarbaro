@@ -43,10 +43,8 @@
 <div>
   “Um dos meus dias mais produtivos foi quando eu joguei fora 1000 linhas de código.” – Ken Thompson
  </div>
-          
- <div>
-          
+              
           &nbsp;<div align="center">
-          [![Spotify](https://novatorem-37uazhi5j-horodeski.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/	31bhbl5lqor6zfqsuudda26rt2g4)
-</div>
+          [![Spotify](https://novatorem-37uazhi5j-dudubarbaro.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/	31bhbl5lqor6zfqsuudda26rt2g4)
+
 
