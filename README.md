@@ -11,22 +11,22 @@
 <div style="display: inline_block" align="center"><br>
   <!-- Programming Languages -->
         <!-- HTML -->
-        <a href="https://github.com/horodeski?tab=repositories" target="_blank"><img alt="HTML"
+        <a href="https://github.com/dudubarbaro?tab=repositories" target="_blank"><img alt="HTML"
                         src="https://img.shields.io/badge/-HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white">
         </a>
         <!-- CSS  -->
-        <a href="https://github.com/horodeski?tab=repositories" target="_blank"><img alt="CSS"
+        <a href="https://github.com/dudubarbaro?tab=repositories" target="_blank"><img alt="CSS"
                         src="https://img.shields.io/badge/-CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white">
         </a>
         <!-- JavaScript -->
-        <a href="https://github.com/horodeski?tab=repositories" target="_blank"><img alt="JavaScript"
+        <a href="https://github.com/dudubarbaro?tab=repositories" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
         </a>
         <!-- Python -->
-        <a href="https://github.com/horodeski?tab=repositories" target="_blank"><img alt="Python"
+        <a href="https://github.com/dudubarbaro?tab=repositories" target="_blank"><img alt="Python"
                         src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         <!-- VueJS -->
-        <a href="https://github.com/horodeski?tab=repositories" target="_blank"><img alt="VueJS"
+        <a href="https://github.com/dudubarbaro?tab=repositories" target="_blank"><img alt="VueJS"
                         src="https://img.shields.io/badge/-VueJS-40b684?logo=vue.js&logoColor=white&style=flat-square">
   <img align="center" alt="SQL" height="30" width="40" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?w=600&ssl=1" />
   <img align="center" alt="MySQL" height="30" width="40" src="https://www.homehost.com.br/blog/wp-content/uploads/2020/09/mysql.png" />
