@@ -25,6 +25,9 @@
         <!-- VueJS -->
         <a href="https://github.com/dudubarbaro?tab=repositories" target="_blank"><img alt="VueJS"
                         src="https://img.shields.io/badge/-VueJS-40b684?logo=vue.js&logoColor=white&style=flat-square">
+          <!-- Python -->
+        <a href="https://github.com/horodeski?tab=repositories" target="_blank"><img alt="Python"
+                        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
 </div>
 <br/>
 <br/>
@@ -40,4 +43,10 @@
 <div>
   “Um dos meus dias mais produtivos foi quando eu joguei fora 1000 linhas de código.” – Ken Thompson
  </div>
+          
+ <div>
+          
+          &nbsp;<div align="center">
+          [![Spotify](https://novatorem-37uazhi5j-horodeski.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff)](https://open.spotify.com/user/	31bhbl5lqor6zfqsuudda26rt2g4)
+</div>
 
