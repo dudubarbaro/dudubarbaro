@@ -28,9 +28,9 @@
         <!-- VueJS -->
         <a href="https://github.com/dudubarbaro?tab=repositories" target="_blank"><img alt="VueJS"
                         src="https://img.shields.io/badge/-VueJS-40b684?logo=vue.js&logoColor=white&style=flat-square">
-  <img align="center" alt="SQL" height="30" width="40" src="https://i0.wp.com/learn.onemonth.com/wp-content/uploads/2019/07/image2-1.png?w=600&ssl=1" />
-  <img align="center" alt="MySQL" height="30" width="40" src="https://www.homehost.com.br/blog/wp-content/uploads/2020/09/mysql.png" />
-  
+        <!-- SQL -->
+        <a href="https://github.com/dudubarbaro?tab=repositories" target="_blank"><img alt="SQL"
+                        src="[https://img.shields.io/badge/-Django-0e3f2e?style=flat-square&logo=Django&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3ASql_data_base_with_logo.png&psig=AOvVaw2Kx9yaVpMfjbANtdZws168&ust=1674074408143000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiYhKa7z_wCFQAAAAAdAAAAABAE)">
 </div>
 <br/>
 <br/>
