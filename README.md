@@ -22,9 +22,6 @@
         <a href="https://github.com/dudubarbaro?tab=repositories" target="_blank"><img alt="JavaScript"
                         src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white">
         </a>
-        <!-- Python -->
-        <a href="https://github.com/dudubarbaro?tab=repositories" target="_blank"><img alt="Python"
-                        src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white">
         <!-- VueJS -->
         <a href="https://github.com/dudubarbaro?tab=repositories" target="_blank"><img alt="VueJS"
                         src="https://img.shields.io/badge/-VueJS-40b684?logo=vue.js&logoColor=white&style=flat-square">
