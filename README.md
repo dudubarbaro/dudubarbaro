@@ -28,9 +28,6 @@
         <!-- VueJS -->
         <a href="https://github.com/dudubarbaro?tab=repositories" target="_blank"><img alt="VueJS"
                         src="https://img.shields.io/badge/-VueJS-40b684?logo=vue.js&logoColor=white&style=flat-square">
-        <!-- SQL -->
-        <a href="https://github.com/dudubarbaro?tab=repositories" target="_blank"><img alt="SQL"
-                        src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Sql_data_base_with_logo.png/800px-Sql_data_base_with_logo.png">
 </div>
 <br/>
 <br/>
