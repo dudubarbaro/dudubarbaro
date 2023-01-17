@@ -30,7 +30,7 @@
                         src="https://img.shields.io/badge/-VueJS-40b684?logo=vue.js&logoColor=white&style=flat-square">
         <!-- SQL -->
         <a href="https://github.com/dudubarbaro?tab=repositories" target="_blank"><img alt="SQL"
-                        src="[https://img.shields.io/badge/-Django-0e3f2e?style=flat-square&logo=Django&logoColor=white](https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3ASql_data_base_with_logo.png&psig=AOvVaw2Kx9yaVpMfjbANtdZws168&ust=1674074408143000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiYhKa7z_wCFQAAAAAdAAAAABAE)">
+                        src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fpt.wikipedia.org%2Fwiki%2FFicheiro%3ASql_data_base_with_logo.png&psig=AOvVaw2Kx9yaVpMfjbANtdZws168&ust=1674074408143000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCPiYhKa7z_wCFQAAAAAdAAAAABAE">
 </div>
 <br/>
 <br/>
