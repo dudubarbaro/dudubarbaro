@@ -1,4 +1,4 @@
-## 👋 Olá! Bem vindo ao meu perfil do Github.
+## 👋 Olá! Seja Bem vindo ao meu perfil aqui no Github.
 
 <div>
 <a href="https://github.com/dudubarbaro">
