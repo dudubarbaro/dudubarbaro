@@ -6,7 +6,7 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudubarbaro&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
 </div>
   
-   ## Linguagens que eu estou aprendendo:
+   ## Linguagens que eu uso no meu dia a dia:
 
 <div style="display: inline_block" align="center"><br>
   <!-- Programming Languages -->
