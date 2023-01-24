@@ -39,10 +39,6 @@
  <a href="https://instagram.com/dudubarbaro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
 </div>
-  
-<div>
-  “Um dos meus dias mais produtivos foi quando eu joguei fora 1000 linhas de código.” – Ken Thompson
- </div>
 
 
 
