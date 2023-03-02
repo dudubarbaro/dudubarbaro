@@ -24,7 +24,7 @@
 <br/>
 <br/>
  
-  ## Me siga!
+  ## Meus meios de contato:
 
 <div align="center"> 
   
