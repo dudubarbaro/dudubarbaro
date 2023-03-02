@@ -24,7 +24,7 @@
 <br/>
 <br/>
  
-  ## Me acompanhe tambem em minha rede social!
+  ## Me acompanhe também em minha rede social!
 
 <div align="center"> 
   
