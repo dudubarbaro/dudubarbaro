@@ -24,9 +24,13 @@
 <br/>
 <br/>
  
-  ## Me acompanhe também em minha rede social!
+  ## Me siga!
 
 <div align="center"> 
+  
+  <a href = "mailto:eduardobarbaro.ifc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=red" target="_black"></a>
+  
+  <a href="www.linkedin.com/in/eduardo-barbaro" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
  <a href="https://instagram.com/dudubarbaro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
