@@ -1,6 +1,6 @@
 ## 👋 Olá! Seja Bem vindo ao meu perfil aqui no Github!
 
-<div>
+<div align="center">
 <a href="https://github.com/dudubarbaro">
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dudubarbaro&layout=compact&langs_count=7&theme=apprentice"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=dudubarbaro&show_icons=true&theme=apprentice&include_all_commits=true&count_private=true"/>
