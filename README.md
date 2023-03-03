@@ -32,6 +32,10 @@
   
  <a href="https://instagram.com/dudubarbaro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   
+  <br>
+  <br>
+  ![Snake animation](https://github.com/dudubarbaro/dudubarbaro/blob/output/github-contribution-grid-snake.svg)
+ 
 </div>
 
 
