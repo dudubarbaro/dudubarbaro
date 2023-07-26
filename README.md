@@ -24,7 +24,7 @@
 <br/>
 <br/>
  
-  ## Onde me encontrar?:
+  ## Onde me encontrar?
 
 <div align="center"> 
 
