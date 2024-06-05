@@ -9,8 +9,6 @@
 
 - 👯 Estou procurando colaborar **Soluções inovadoras para o mercado**
 
-- 🤝 Estou procurando ajuda com [Nova oportunidade no mercado de trabalho](https://www.linkedin.com/in/eduardo-barbaro/)
-
 - 👨‍💻 Todos os meus projetos estão disponíveis em [https://github.com/dudubarbaro](https://github.com/dudubarbaro)
 
 - 💬 Pergunte-me sobre **React, Vue e Django**
